@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "title": "Angling in Troubled Waters",
+    "subtitle": "A Thematic Assessment",
+    "author": "Michael A. Thomas",
+    "datePublished": "2021-12-19"
+  },
+
+  "sources": [
+    {
+      "id": "1",
+      "type": "iiifImage",
+      "imageEndpoint": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f619h/info.json",
+      "moreInfo": "https://iiif.digitalcommonwealth.org"
+    }
+  ],
+
+  "scenes": [
+    {
+      "source": "1",
+      "extent": "fit",
+      "caption": {
+        "title": "Cartographic Intent",
+        "text": "This slideshow aims to assess the following serio-comic and it's facets pertaining to cartographic intent. Described as an allegory, this map and it's persuasive nature is due to political content: boundary disputes and power struggles."
+      }
+    },
+
+    {
+      "source": "1",
+      "extent": [4500, -1000, 4575, 500],
+      "caption": {
+        "title": "Europe's Struggle for Power",
+        "text": "Reminiscient of Monmonier's Chapter *Keep Out!*, territorial boundaries imposed by imperial powers are seldom without conflict and quarrel. Delineation and demarcation only further complicate things by challenging a nation to maintain its imperial sovereignty (e.g. commerce, immigration)."
+      }
+    },
+
+    {
+      "source": "1",
+      "extent": [500, -1000, 2000, 200],
+      "caption": {
+        "title": "Serious & Comical?",
+        "text": "The authors of *Angling in Troubled Waters* chose to narrate Europe's struggle for power in what's known as a *serio-comic*: serious in intention but satirical in nature. Let's talk through some of these caracatures."
+      }
+    },
+
+    {
+      "source": "1",
+      "extent": [500, -3500, 2000, -2000],
+      "caption": {
+        "title": "Spain's Royal Massacree",
+        "text": "Imperial Sovereignty and borders aren't the only thing perpetuating Europe's power struggle. Overwhelmed by his losses to competitors, King Phillip II's son Don Carlos tries to snatch the crown from his dazed father. Carlos attempted to court Queen Elizabeth I to gain wealth and power while waiting for his father to die; Talk about a dysfunctional family! Spain became fairly destitute towards the end of King Philip II's reign, where it declared its fourth bankruptcy in 1596."
+      }
+    },
+
+    {
+      "source": "1",
+      "extent": [500, -3500, 2000, -2000],
+      "caption": {
+        "title": "Commerical Empire",
+        "text": "Unlike its neighbor Spain, Portugal used their superior navigational skills to create the largest commerical and maritime empire. Needless to say, they dominated the fishing and agriculture market to become one of the richest countries in the world. Portugal ended up becoming one of the poorest nations in the 19th & 20th centuries once their Asian and South African connections halted. Neglecting domestic infrastructure did not help matters either."
+      }
+    }, 
+
+    {
+      "source": "1",
+      "extent": [2000, -2000, 3000, -500],
+      "caption": {
+        "title": "A House Divided",
+        "text": "After a swift defeat, the nationalist people of Norway begrudingly formed a union with Sweden. Norway got to keep its consitution and legal system as an independent state, but shared the same monarch and foreign policy. However, a divergence became more apparent as their economical and political interests clashed. Norway depended on foreign trade, unlike the mercantilist policies favored by Sweden. Norway also tended to be more liberal in their policies, where Sweden favored conservative measures."
+      }
+    },
+
+    {
+      "source": "1",
+      "extent": [500, -1000, 2000, 200],
+      "caption": {
+        "title": "Coherency or Complexity?",
+        "text": "Mapping and cartography today enable freedom to express passion and purpose, while making connections with those involved. This is possible through interpersonal acceptance of the map and the discourse it creates. Edney believed that cartographic progression didn't soley stem from accuracy, but its ability to grow and demonstrate its progress. This modal mapping approach helped formulate complexity, create new topics, and acquired fresh experiences."
+      }
+    }, 
+
+    {
+      "source": "1",
+      "extent": "fit",
+      "caption": {
+        "title": "Author's Intent",
+        "text": "The complexity of mapping doesn't stop with the acceptance and discourse which follows. Its entanglement with the audience is only exacerbated by the author's intent and generalization of the map's contents. Generalizing a map's story forces it's audience to think subjectively. Tyner covers the impact a map's intent and narration has in *Persuasive Cartography*. This ability to twist and shape the narration to evoke certain emotions gives a map its power to persuade."
+      }
+    },
+
+    {
+      "source": "1",
+      "extent": [4500, -2720, 4575, -1500],
+      "caption": {
+        "title": "References",
+        "text": "Matthew H Edney, “‘Cartography Without Progress’: Reinterpreting the Nature and Historical Development of Mapmaking,” Cartographica 30, nos. 2-3 (October 1993): 54–68, doi:10.3138/D13V-8318-8632-18K6., Judith Tyner, “Persuasive Cartography,” in Mark Monmonier, ed., The History of Cartography, vol. 6 (University of Chicago Press, 2015): 1087–1095., Ch. 3, “Keep out!”, and Ch. 4, “Absentee landlords,” pp. 30–69 in Mark S Monmonier No dig, no fly, no go: how maps restrict and control (Chicago: The University of Chicago Press, 2010), http://www.worldcat.org/oclc/434744326 (Links to an external site.)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My map</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+      crossorigin=""
+    />
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      #iiif-map {
+        position: absolute;
+        width: 100%;
+        top: 0;
+        bottom: 0;
+      }
+
+      #current-view {
+        position: absolute;
+        left: 60px;
+        top: 12px;
+        z-index: 1000;
+        background: rgb(255, 255, 255);
+        padding: 8px 12px;
+      }
+
+      #ui {
+        position: absolute;
+        left: 12px;
+        bottom: 12px;
+        z-index: 1000;
+        background: whitesmoke;
+        padding: 8px 12px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="iiif-map"></div>
+     <!-- Container for Slides -->
+     <div style="width:1000px;height:800px;">
+      <panel-truck screenplay-src="project.json"></panel-truck>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script
+      src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+      integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+      crossorigin=""></script>
+    <!-- make sure to import Leaflet-IIIF *after* the main Leaflet package -->
+    <script src="https://cdn.rawgit.com/mejackreed/Leaflet-IIIF/v3.0.0/leaflet-iiif.js"></script>
+    <!-- Vue import -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+    <!-- Panel-Truck -->
+    <script src="https://geoservices.leventhalmap.org/panel-truck/webcomponent-0.2/panel-truck.min.js"></script>
+
+    <script>
+      document
+        .getElementById("zoom-to-legend")
+        .addEventListener("click", () => {
+          map.flyToBounds([
+            [-584, 12],
+            [-284, 312],
+          ]);
+        });
+    </script>
+  </body>
+</html>
