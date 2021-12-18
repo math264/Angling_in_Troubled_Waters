@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Angling in Troubled Waters",
-    "subtitle": "A Thematic Assessment",
+    "subtitle": "A Thematic & Ideological Assessment",
     "author": "Michael A. Thomas",
     "datePublished": "2021-12-19"
   },
@@ -21,7 +21,16 @@
       "extent": "fit",
       "caption": {
         "title": "Cartographic Intent",
-        "text": "This slideshow aims to assess the following serio-comic and it's facets pertaining to cartographic intent. Described as an allegory, this map and it's persuasive nature is due to political content (boundary disputes and power struggles)."
+        "text": "This slideshow's goal is twofold. One is to assess the following serio-comic *Angling in Troubled Waters* (AITW) and it's cartographic facets. The second is to emphasize the cartographic ideologies instrumental in our current world of mapping. This ideological assessment will acknowledge the work of Jeremy Crampton, Matthew Edney, Mark Monmonier, and Judith Tyner."
+      }
+    },
+
+    {
+      "source": "1",
+      "extent": "fit",
+      "caption": {
+        "title": "Cartographic Intent",
+        "text": "AITW and it's intent is deeply rooted in political narration (boundary disputes and power struggles) and it's author's true purpose. Described as an allegory, it makes for a textbook example of hidden meanings. Maps not only describe the current state of affairs, but also provide a solution (Crampton)."
       }
     },
 
@@ -30,7 +39,7 @@
       "extent": [4500, -1000, 4575, 500],
       "caption": {
         "title": "Europe's Struggle for Power",
-        "text": "Reminiscient of Monmonier's Chapter *Keep Out!*, territorial boundaries imposed by imperial powers are seldom without conflict and quarrel. Delineation and demarcation only further complicate things by challenging a nation to maintain it's imperial sovereignty (e.g. commerce, immigration)."
+        "text": "Territorial boundaries imposed by imperial powers are seldom without conflict and quarrel. Delineation and demarcation only further complicate things by challenging a nation to maintain it's imperial sovereignty (Monmonmier). Maps are inherently political in their design, but this is as political as it gets. Althought historically used for navigation and reference, maps like the Mercator projection distort reality and are political to a fault (Crampton, Tyner)"
       }
     },
 
@@ -39,7 +48,7 @@
       "extent": [500, -1000, 2000, 200],
       "caption": {
         "title": "Serious & Comical?",
-        "text": "The authors of *Angling in Troubled Waters* chose to narrate Europe's struggle for power in what's known as a *serio-comic*: serious in intention but satirical in nature. Let's talk through some of these caricatures."
+        "text": "The authors of AITW chose to narrate Europe's struggle for power in what's known as a *serio-comic*: serious in intention but satirical in nature. Let's talk through some of these caricatures."
       }
     },
 
@@ -75,7 +84,7 @@
       "extent": [500, -1000, 2000, 200],
       "caption": {
         "title": "Coherency or Complexity?",
-        "text": "Mapping and cartography today enable freedom to express passion and purpose, while making connections with those involved. This is possible through interpersonal acceptance of the map and the discourse it creates. Edney addresses cartographic progression in *Cartograpy Without Progression* and it's ability to grow and demonstrate it's progress. This modal mapping approach helped formulate complexity, create new topics, and acquired fresh experiences."
+        "text": "Mapping and cartography today enable freedom to express passion and purpose, while making connections with those involved. This is possible through interpersonal acceptance of the map and the discourse it creates. Mapping is not reliant on cartographic pogress, but rather it's ability to systemically grow and demonstrate it's progress. This modal mapping approach helped formulate complexity, create new topics, and acquired fresh experiences (Edney)."
       }
     }, 
 
@@ -83,8 +92,8 @@
       "source": "1",
       "extent": "fit",
       "caption": {
-        "title": "Author's Intent",
-        "text": "The complexity of mapping doesn't stop with the acceptance and discourse which follows. It's entanglement with the audience is only exacerbated by the author's intent and generalization of the map's contents. Generalizing a map's story forces it's audience to think subjectively. Tyner covers the impact a map's intent and narration has in *Persuasive Cartography*. This ability to twist and shape the narration to evoke certain emotions gives a map its power to persuade."
+        "title": "True Intent",
+        "text": "The complexity of mapping doesn't stop with the acceptance and discourse which follows. It's entanglement with the audience is only exacerbated by the author's intent and generalization of the map's contents. Generalizing a map's story forces it's audience to think subjectively. This ability to twist and shape the narration to evoke certain emotions gives a map its power to persuade (Tyner). Cartographic success stems from pushing social boundaries, mapping new topics from new point-of-views, and collaborating in new territories. It appears that persuasion, evoking of emotions, and perpetuating action is cartography's true intent (Edney, Tyner)."
       }
     },
 
